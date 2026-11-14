@@ -1,0 +1,15 @@
+# mediu Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# date extrase: conțin telefoane/emailuri de firme -> NU se urcă pe GitHub (GDPR)
+*.db
+*.db-journal
+exports/
+*.xlsx
+
+# local
+.env
+.vscode/

@@ -1,0 +1,5 @@
+# Versiunile testate (pip freeze din .venv-ul proiectului)
+playwright==1.65.2
+httpx==0.28.1
+openpyxl==3.1.5
+rich==15.0.0
